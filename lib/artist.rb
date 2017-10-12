@@ -19,3 +19,5 @@ class Artist
   end
 
 end
+
+add_song(song)
