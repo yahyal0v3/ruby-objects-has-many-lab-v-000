@@ -3,7 +3,7 @@ class Artist
   attr_accessor :name
   attr_reader :songs
 
-  @@songs = []
+  @@song_count = []
 
   def initialize(name)
     @name = name
